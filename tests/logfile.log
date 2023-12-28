@@ -1,0 +1,79 @@
+2023-12-27 16:30:06,065 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:30:06,158 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:30:06,249 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:32:35,982 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:32:36,081 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:32:36,167 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:38:00,253 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:38:00,353 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:38:00,450 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:38:25,783 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:38:25,875 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:38:25,947 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:39:53,046 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:39:53,142 :INFO :test_homepageSubmition :surya
+2023-12-27 16:39:53,239 :INFO :test_homepageSubmition :surya@gmail.com
+2023-12-27 16:40:10,777 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:40:10,777 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:40:10,844 :INFO :test_homepageSubmition :pran
+2023-12-27 16:40:10,844 :INFO :test_homepageSubmition :pran
+2023-12-27 16:40:10,935 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:40:10,935 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:44:35,788 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:44:35,878 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:44:35,963 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:49:35,319 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:49:35,434 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:49:35,523 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:50:16,382 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 16:50:16,487 :INFO :test_homepageSubmition :Pran
+2023-12-27 16:50:16,582 :INFO :test_homepageSubmition :pran@gmail.com
+2023-12-27 16:52:45,299 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 18:03:38,836 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 18:04:02,279 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 18:04:02,379 :INFO :test_homepageSubmition :Surya
+2023-12-27 18:04:02,452 :INFO :test_homepageSubmition :surya@gmail.com
+2023-12-27 20:00:50,130 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 20:00:50,226 :INFO :test_homepageSubmition :Surya
+2023-12-27 20:00:50,304 :INFO :test_homepageSubmition :surya@gmail.com
+2023-12-27 20:01:17,922 :INFO :test_e2e :Getting all card titles
+2023-12-27 20:01:18,123 :INFO :test_e2e :iphone X
+2023-12-27 20:01:18,158 :INFO :test_e2e :Samsung Note 8
+2023-12-27 20:01:18,181 :INFO :test_e2e :Nokia Edge
+2023-12-27 20:01:18,209 :INFO :test_e2e :Blackberry
+2023-12-27 20:01:28,457 :INFO :test_e2e :Get country
+2023-12-27 20:01:33,818 :INFO :test_e2e :assert msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-27 20:05:31,477 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 20:05:31,586 :INFO :test_homepageSubmition :Surya
+2023-12-27 20:05:31,683 :INFO :test_homepageSubmition :surya@gmail.com
+2023-12-27 20:06:03,304 :INFO :test_e2e :Getting all card titles
+2023-12-27 20:06:03,354 :INFO :test_e2e :iphone X
+2023-12-27 20:06:03,368 :INFO :test_e2e :Samsung Note 8
+2023-12-27 20:06:03,383 :INFO :test_e2e :Nokia Edge
+2023-12-27 20:06:03,395 :INFO :test_e2e :Blackberry
+2023-12-27 20:06:13,588 :INFO :test_e2e :Get country
+2023-12-27 20:06:19,669 :INFO :test_e2e :assert msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-27 20:08:34,064 :INFO :test_e2e :Getting all card titles
+2023-12-27 20:08:34,137 :INFO :test_e2e :iphone X
+2023-12-27 20:08:34,163 :INFO :test_e2e :Samsung Note 8
+2023-12-27 20:08:34,181 :INFO :test_e2e :Nokia Edge
+2023-12-27 20:08:34,199 :INFO :test_e2e :Blackberry
+2023-12-27 20:08:44,431 :INFO :test_e2e :Get country
+2023-12-27 20:08:49,932 :INFO :test_e2e :assert msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-27 20:08:55,308 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 20:08:55,412 :INFO :test_homepageSubmition :Surya
+2023-12-27 20:08:55,485 :INFO :test_homepageSubmition :surya@gmail.com
+2023-12-27 20:09:23,308 :INFO :test_e2e :Getting all card titles
+2023-12-27 20:09:23,367 :INFO :test_e2e :iphone X
+2023-12-27 20:09:23,395 :INFO :test_e2e :Samsung Note 8
+2023-12-27 20:09:23,422 :INFO :test_e2e :Nokia Edge
+2023-12-27 20:09:23,439 :INFO :test_e2e :Blackberry
+2023-12-27 20:09:33,668 :INFO :test_e2e :Get country
+2023-12-27 20:09:39,057 :INFO :test_e2e :assert msg is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-27 20:09:44,081 :INFO :test_homepageSubmition :Getting all names
+2023-12-27 20:09:44,226 :INFO :test_homepageSubmition :Surya
+2023-12-27 20:09:44,330 :INFO :test_homepageSubmition :surya@gmail.com
